@@ -191,13 +191,5 @@ Required Escape Velocity: 1.44 km/s
 
 -----
 
-## Contact Info
-
-For questions, issues, or collaboration, please contact:
-
-> **[Your Name/Contact]**
-> *E-mail:* `[Your Email Address]`
-> *GitHub:* `[Your GitHub Profile URL]`
-
 
 
